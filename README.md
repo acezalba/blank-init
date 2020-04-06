@@ -20,13 +20,13 @@ This repository bundles the following:
 
 ## How to use it
 
-Easiest way is to download the zip to your computer or clone via `git clone`. Then modify and reuse to your heart's content.
+Easiest way is to download the zip to your computer or clone via `git clone https://github.com/acezalba/blank-init.git`. Then modify and reuse to your heart's content.
 
 **Beginner Tips:**
 
 - place your project resources in the assets folder: `/img` for your images, `/css` for your stylesheets, and `/js` for your scripts. Place your css styles in the `style.css` file and your scripts in the `script.js` file.
 - replace the `favicon.ico` in `assets/img/` with your own project favicon. The included icon is a sun emoji because sun. emoji.
-- delete the `LICENSE` file. Now you are ready to use this for your projects.
+- delete or edit the `LICENSE` and the `README.md` file. Now you are ready.
 
 ## What is it for
 
