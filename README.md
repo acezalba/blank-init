@@ -2,7 +2,7 @@
 
 A Blank HTML-CSS Template for Beginners. With comments in HTML & CSS for well-organized code.
 
-## What is it?
+## What is it
 
 This repository bundles the following:
 
@@ -24,8 +24,9 @@ Easiest way is to download the zip to your computer or clone via `git clone`. Th
 
 **Beginner Tips:**
 
-- place your project resources in the assets folder: `/img` for your images, `/css` for your stylesheets, and `/js` for your scripts. Place your css styles in the `style.css` file and your scripts in the `scripts.js` file.
+- place your project resources in the assets folder: `/img` for your images, `/css` for your stylesheets, and `/js` for your scripts. Place your css styles in the `style.css` file and your scripts in the `script.js` file.
 - replace the `favicon.ico` in `assets/img/` with your own project favicon. The included icon is a sun emoji because sun. emoji.
+- delete the `LICENSE` file. Now you are ready to use this for your projects.
 
 ## What is it for
 
