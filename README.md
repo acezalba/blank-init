@@ -20,7 +20,7 @@ This repository bundles the following:
 
 ## How to use it
 
-Easiest way is to download the zip to your computer or clone via `git clone https://github.com/acezalba/blank-init.git`. Then modify and reuse to your heart's content.
+Easiest way is to download the zip to your computer or clone via `git clone https://github.com/acezalba/blank-init.git new_project_name`, where new_project_name is the name of future project. Then modify and reuse to your heart's content.
 
 **Beginner Tips:**
 
