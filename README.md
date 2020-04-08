@@ -51,8 +51,8 @@ The best way to take advantage of these sections is to copy CDN links of your ch
 - [] An init-mockup-webapp for creating css mockups of web apps
 - [] An intermediate init version designed for use with package managers and other web development toolchains
 
-## License
+## Attributions and Licensing
 
 - [Normalize.css](http://github.com/necolas/normalize.css) is covered under MIT License.
 - The Sun Favicon is a placeholder emoji icon generated through [Favicon.io](http://favicon.io). Website by [John Sorrentino](https://twitter.com/johnsorrentino).
-- Everything else is covered by the Unlicense (i.e. public domain.)
+- All other blank-init files that are not governed by third-party dependencies and their respective licenses as specified are covered under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
