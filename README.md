@@ -42,9 +42,15 @@ The best way to take advantage of these sections is to copy CDN links of your ch
 
 ## TODO
 
-- [] Preset media query breakpoints and debuggers
+- [/] Preset media query breakpoints
+- [] Template VanillaJS functions for handling basic state changes and transitions for navigation
+- [] Bundling additional img icons for other potential use cases
+  - [] Categories
+  - [] Tags
+  - [] Menu
 - [] An init-flexframe for a blank mockup with a responsive nav, header, and footer and gridflexbox defaults. (nav, header, and footer being the 'frame')
-- [] A blank-init-bootstrap version with CDNs
+  - [] Div-created hamburger icon
+- [/] A blank-init-bootstrap version with CDNs
 - [] An init-mockup-business for mockup businesses sites
 - [] An init-mockup-landing for a base landing page with sample content
 - [] An init-mockup-blog for a set of responsive blog content templates and content
